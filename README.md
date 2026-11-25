@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=7f5af0&label=Profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=marcelyeo0&style=flat-square&color=7f5af0&label=Profile+views" />
   <img src="https://img.shields.io/badge/📍-Clermont--Ferrand,_FR-302b63?style=flat-square" />
   <img src="https://img.shields.io/badge/🌍-From_Côte_d'Ivoire-ff8c00?style=flat-square" />
   <img src="https://img.shields.io/badge/🔎-Open_to_internships-2cb67d?style=flat-square" />
@@ -94,16 +94,16 @@ class MarcelYeo:
 ## 📊 GitHub in numbers
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7f5af0&icon_color=2cb67d&text_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7f5af0&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcelyeo0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7f5af0&icon_color=2cb67d&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelyeo0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7f5af0&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=7f5af0&fire=ff8c00&currStreakLabel=7f5af0" />
+  <img src="https://streak-stats.demolab.com?user=marcelyeo0&theme=tokyonight&hide_border=true&background=0f0c29&ring=7f5af0&fire=ff8c00&currStreakLabel=7f5af0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=7f5af0&line=2cb67d&point=ffffff" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelyeo0&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=7f5af0&line=2cb67d&point=ffffff" width="95%"/>
 </p>
 
 ---
@@ -120,9 +120,8 @@ class MarcelYeo:
 ## 🤝 Let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcel-yeo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.strava.com/athletes/STRAVA_ID"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/marcel-yeo-56b5082b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:marcelyeo30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
